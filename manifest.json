@@ -1,16 +1,16 @@
 {
   "name": "suite-share",
   "vendor": "vtex",
-  "version": "0.1.0",
-  "title": "Suite Share",
-  "description": "Suite Share Integration",
+  "version": "0.1.1",
+  "title": "Suiteshare",
+  "description": "Suiteshare Integration",
   "builders": {
     "pixel": "0.x",
     "docs": "0.x"
   },
   "dependencies": {},
   "settingsSchema": {
-    "title": "Suite Share",
+    "title": "Suiteshare",
     "type": "object",
     "properties": {
       "siteId": {
