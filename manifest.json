@@ -1,7 +1,7 @@
 {
   "name": "suite-share",
   "vendor": "vtex",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "title": "Suiteshare",
   "description": "Suiteshare Integration",
   "builders": {
