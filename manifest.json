@@ -1,7 +1,7 @@
 {
   "name": "suite-share",
   "vendor": "vtex",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "title": "Suiteshare",
   "description": "Suiteshare Integration",
   "builders": {
@@ -19,6 +19,15 @@
         "type": "string"
       }
     }
+  },
+  "billingOptions": {
+    "type": "free",
+    "support": {
+      "url": "https://support.vtex.com/hc/requests"
+    },
+    "availableCountries": [
+      "*"
+    ]
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
