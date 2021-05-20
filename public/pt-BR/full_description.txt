@@ -1,0 +1,11 @@
+## Sobre
+
+Estre aplicativo realiza integração com a plataforma Suiteshare, adicionando um botão para o whatsapp em todas as páginas.
+
+## Funcionalidades
+
+- Integração com Suiteshare
+
+## Informações Adicionais
+
+Para utilizar essa app é necessário ter uma conta ativa no Shiteshare e configurar o ID de integração nas configurações do app.
