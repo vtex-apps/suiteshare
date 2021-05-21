@@ -10,7 +10,7 @@ Suiteshare is a sales and service platform for WhatsApp, creating solutions to a
 
 After installing the app through the store, go to the app settings and type your Suiteshare Id. You can find that on the main Suiteshare dashboard, it's the last code on the installation instructions:
 
-![SuiteshareId](images/SuiteshareId.png)
+![SuiteshareId](https://user-images.githubusercontent.com/1629129/119191255-c0d2ed00-ba54-11eb-94a1-13027c6c1c51.png)
 
 And you're done! Everything else is configured directly through Suiteshare.
 
