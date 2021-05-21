@@ -12,6 +12,8 @@ After installing the app through the store, go to the app settings and type your
 
 ![SuiteshareId](https://user-images.githubusercontent.com/1629129/119191255-c0d2ed00-ba54-11eb-94a1-13027c6c1c51.png)
 
+Type only the characters in, for example: **ba776dfa9e2fe90641696945dfea429113110686**
+
 And you're done! Everything else is configured directly through Suiteshare.
 
 ## Compatibility
