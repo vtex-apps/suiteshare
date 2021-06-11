@@ -10,7 +10,6 @@ This app integrates your store with the Suiteshare platform, adding the WhatsApp
 >Suiteshare app is only compatible with IO Stores.
 
 
- 
 ## Step by Step
 1. Go to [VTEX App Store](https://apps.vtex.com/vtex-suite-share/p).
 2. Click on the button _GET APP_.
