@@ -20,7 +20,6 @@ This app integrates your store with the Suiteshare platform, adding the WhatsApp
 >The app purchase is free. However, it requires an external subscription to the service provided by Suiteshare, which you can do on [Suiteshare page](https://suiteshare.com).
 
 
-
 5. Go to the app settings and type your _Suiteshare Id_. You can find your Suiteshare Id on the main Suiteshare dashboard. It is the last code on the installation instructions, and you type only the characters in, for example:
 
       `ba776dfa9e2fe90641696945dfea429113110686`
